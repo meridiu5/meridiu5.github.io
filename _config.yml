@@ -1,4 +1,6 @@
 name: My Site
+title: Meridius blog
+description: welcome to my blog!
 lsi: false
 safe: true
 source: main
